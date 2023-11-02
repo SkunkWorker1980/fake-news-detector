@@ -40,7 +40,7 @@ To run this project, you will need the following dependencies:
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/fake-news-detector.git
+   git clone https://github.com/SkunkWorker1980/fake-news-detector.git
    cd fake-news-detector
    ```
 
